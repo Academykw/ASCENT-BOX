@@ -1,10 +1,10 @@
-# 🌟 Motivate - Beautiful Offline Motivational App
+#  Motivate - Beautiful Offline Motivational App
 
 A stunning, fully offline Flutter motivational app with 5 powerful features.
 
-## ✨ Features
+##  Features
 
-### 1. 📖 Daily Quotes
+### 1.  Daily Quotes
 - 35+ curated motivational quotes
 - Swipeable card interface with beautiful gradients
 - Category filter (Courage, Resilience, Dreams, Success, etc.)
@@ -12,7 +12,7 @@ A stunning, fully offline Flutter motivational app with 5 powerful features.
 - Copy to clipboard / share any quote
 - Today's quote highlighted automatically
 
-### 2. ✅ Habit Tracker
+### 2.  Habit Tracker
 - Add custom habits with emoji + color pickers
 - Preset popular habits (Workout, Read, Meditate, etc.)
 - Daily streak counter with fire icon
@@ -20,7 +20,7 @@ A stunning, fully offline Flutter motivational app with 5 powerful features.
 - Swipe-to-delete habits
 - Total completions count
 
-### 3. ✍️ Mood Journal
+### 3.  Mood Journal
 - Write journal entries with mood rating (1-5)
 - Beautiful mood emoji selector
 - Writing prompts to inspire entries
@@ -29,14 +29,14 @@ A stunning, fully offline Flutter motivational app with 5 powerful features.
 - Swipe-to-delete entries
 - Sorted by date (newest first)
 
-### 4. 💗 Affirmations
+### 4.  Affirmations
 - 6 categories: Self-Love, Confidence, Abundance, Health, Success, Peace
 - 5-6 affirmations per category
 - Tap-through interface with animated transitions
 - Copy any affirmation to clipboard
 - Beautiful gradient card design
 
-### 5. 🌊 Breathing Exercises
+### 5.  Breathing Exercises
 - 4 breathing patterns:
   - **4-7-8** (Sleep/Anxiety relief)
   - **Box Breathing** (Balance)
@@ -46,14 +46,14 @@ A stunning, fully offline Flutter motivational app with 5 powerful features.
 - Cycle counter
 - Benefit cards (Reduces Anxiety, Lowers HR, Improves Focus, Better Sleep)
 
-### 🌙 Dark/Light Mode
+###  Dark/Light Mode
 - Beautiful warm light theme and deep dark theme
 - Toggle with FAB button
 - Preference saved across sessions
 
 ---
 
-## 🚀 Setup Instructions
+##  Setup Instructions
 
 ### Prerequisites
 - Flutter SDK 3.0+
@@ -90,7 +90,7 @@ flutter run --release
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 lib/
@@ -112,14 +112,14 @@ lib/
     └── app_theme.dart      # Colors, typography, themes
 ```
 
-## 🎨 Design System
+##  Design System
 
 - **Primary**: Golden (`#E8B86D`)
 - **Accent**: Coral (`#FF6B6B`), Mint (`#4ECDC4`), Purple (`#9B59B6`)
 - **Typography**: Playfair Display (headings) + Lato (body)
 - **Dark BG**: `#0D1117` | **Light BG**: `#FFF8F0`
 
-## 📦 Dependencies
+##  Dependencies
 
 | Package | Purpose |
 |---------|---------|
@@ -132,4 +132,4 @@ lib/
 
 ---
 
-Built with ❤️ using Flutter
+Built with  using Flutter
